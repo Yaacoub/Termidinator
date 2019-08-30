@@ -11,6 +11,9 @@ Make sure you at least have:
 - 9 Pushbuttons
 - Wires (short, medium and long)
 
+## Contributing
+See [CONTRIBUTING.md](https://github.com/Yaapete/Huh-iOS/blob/master/CONTRIBUTING.md) for in-depth details.
+
 ## Author
 
 - Peter Yaacoub - [Yaapete](https://github.com/Yaapete)
