@@ -26,3 +26,4 @@ See [CONTRIBUTING.md](https://github.com/Yaapete/Huh-iOS/blob/master/CONTRIBUTIN
 ## More information
 
 - Visit my [website](http://rebrand.ly/yaacoub) for more information!
+- Check out the project on the list of [Contributor Covenant Adopters](https://www.contributor-covenant.org/adopters.html).
