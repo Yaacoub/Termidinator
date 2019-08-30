@@ -5,10 +5,10 @@
 ## Material
 
 Make sure you at least have:
-- 1 Arduino Uno
-- 1 Breadboard
-- 9 220Ω Resistors
-- 9 Pushbuttons
+- x1 Arduino Uno
+- x1 Breadboard
+- x9 220Ω Resistors
+- x9 Pushbuttons
 - Wires (short, medium and long)
 
 ## Contributing
@@ -25,4 +25,4 @@ See [CONTRIBUTING.md](https://github.com/Yaapete/Huh-iOS/blob/master/CONTRIBUTIN
 
 ## More information
 
-- Visit our [website](http://rebrand.ly/yaacoub) for more information!
+- Visit my [website](http://rebrand.ly/yaacoub) for more information!
