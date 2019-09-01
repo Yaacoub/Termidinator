@@ -1,6 +1,6 @@
 # Termidinator
 
-![](https://raw.githubusercontent.com/Yaacoub/Termidinator/master/Termidinator/Termidinator%20Circuit.png)
+![](https://raw.githubusercontent.com/Yaacoub/Termidinator/master/Termidinator/Termidinator.png)
 
 ## Material
 
