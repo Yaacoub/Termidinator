@@ -9,7 +9,7 @@ Make sure you at least have:
 - x1 Breadboard
 - x9 220Ω Resistors
 - x9 Pushbuttons
-- Wires (short, medium and long)
+- Wires
 
 ## Contributing
 See [CONTRIBUTING.md](https://github.com/Yaapete/Huh-iOS/blob/master/CONTRIBUTING.md) for in-depth details.
