@@ -1,3 +1,5 @@
+// Constants
+
 const bool midiMode = true;
 const byte octaveMinusButtonPin = 11;
 const byte octavePlusButtonPin = 12;
@@ -6,11 +8,19 @@ const byte pianoNaturalKeysSize = sizeof pianoNaturalKeys/sizeof pianoNaturalKey
 const byte pianoSharpKeys[5][3] = { {4, 1, 2}, {5, 3, 3}, {7, 6, 5}, {8, 8, 7}, {9, 10, 11} }; // {Pin, Value, Prime Number}
 const byte pianoSharpKeysSize = sizeof pianoSharpKeys/sizeof pianoSharpKeys[0];
 
+
+
+// Variables
+
 bool isSharpKey = false;
 bool octaveMinusButtonState = LOW;
 bool octavePlusButtonState = LOW;
 double octaveValue = 5;
 int magicNumber = 1;
+
+
+
+// Default Functions
 
 void setup() {
   
@@ -62,6 +72,10 @@ void loop() {
   }
   
 }
+
+
+
+// Functions
 
 void checkNoteStatus(const byte pianoKeys[][3], const byte pianoKeysSize) {
   
