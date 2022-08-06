@@ -11,13 +11,6 @@ Make sure you at least have:
 - x9 Pushbuttons
 - Wires
 
-## Contributing
-See [CONTRIBUTING.md](https://github.com/Yaapete/Huh-iOS/blob/master/CONTRIBUTING.md) for in-depth details.
-
-## Author
-
-- Peter Yaacoub - [Yaapete](https://github.com/Yaapete)
-
 ## Acknowledgments
 
 - [How to Make a Cheap Arduino MIDI Controller](https://www.instructables.com/id/How-to-Make-a-Cheap-Arduino-MIDI-Controller/)
@@ -25,5 +18,4 @@ See [CONTRIBUTING.md](https://github.com/Yaapete/Huh-iOS/blob/master/CONTRIBUTIN
 
 ## More information
 
-- Visit my [website](http://rebrand.ly/yaacoub) for more information!
 - Check out the project on the list of [Contributor Covenant Adopters](https://www.contributor-covenant.org/adopters.html).
